@@ -1,7 +1,7 @@
 <h1>Account Manager</h1>
 
 <h2>Description</h2>
-The project implements user account creation and log in mechanisms with the help of hashlib and getpass python libraries.  
+The project simulates user account creation and log-in mechanisms with the help of Hashlib and getpass Python libraries.  
 <br />
 
 
