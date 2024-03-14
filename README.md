@@ -12,4 +12,4 @@ The project simulates a user account creation and log-in process with the help o
 
 <h2>Environments Used </h2>
 
-- <b>Replit</b> 
+- <b>Visual Studio Code</b> 
