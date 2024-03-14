@@ -21,7 +21,7 @@ def user_login():
     
 def main():
   while True:
-    print("Welcome to the Password Manager!")
+    print("Welcome to the Account Manager!")
     print("1. Create User")
     print("2. Login")
     print("3. Exit")
@@ -35,5 +35,5 @@ def main():
     else:
       print("Invalid choice. Please try again.")
   
-  if__name__ == "__main__";
+if __name__ == "__main__":
   main()
